@@ -1,6 +1,6 @@
 # Ethertime-Solidity
-Ethertime smart-contract
+Ethertime smart-contract latest testnet implementation 
 https://ropsten.etherscan.io/address/0x347b3b19cb4d372050d0eff5bd0f753fbadd488c
 
 link of Pdf docs about how this lottery and smart-contract functions  works:
-https://drive.google.com/file/d/1p0E4-HuvmDag4O0DuBminAsb9VBalev_/view?usp=sharing
+https://github.com/rfedoskin/Ethertime-Solidity/raw/main/Whitepaper.pdf
